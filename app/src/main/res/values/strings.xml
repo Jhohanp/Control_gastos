@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Control de Gastos</string>
+    <string name="textMonto">Monto</string>
+    <string name="textFecha">Fecha</string>
+    <string name="textHora">Hora</string>
+    <string name="textCategoria">Categoria</string>
+    <string name="textFrec">Frecuencia Diaria</string>
+    <string name="InMonto"></string>
+    <string name="buttonFecha"></string>
+    <string name="InHora"></string>
+    <string name="buttonAgregar">Agregar</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_vistas_gasto">VistasGasto</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="consultar">Consultar</string>
+</resources>
